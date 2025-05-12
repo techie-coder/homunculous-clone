@@ -1,0 +1,9 @@
+dist
+node_modules
+cache
+*.log
+*.env
+*.DS_Store
+*.swp
+*.swo
+*.swn
