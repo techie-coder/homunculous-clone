@@ -1,4 +1,3 @@
-//readme for a threejs project
 ## Project Overview
 
 This project is a clone of the landing page of the Homunculous website, built using [Three.js](https://threejs.org/). It showcases interactive 3D graphics and animations rendered directly in the browser using WebGL.
