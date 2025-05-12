@@ -1,6 +1,7 @@
 dist
 node_modules
-cache
+.cache
+.parcel-cache
 *.log
 *.env
 *.DS_Store
